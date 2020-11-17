@@ -1,0 +1,1 @@
+1. run.py file2. Make a graph from output
